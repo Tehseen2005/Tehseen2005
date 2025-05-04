@@ -1,4 +1,4 @@
-# 👋 Hi, I'm crae6ted!
+# 👋 Hi, I'm Tehseen!
 
 Welcome to my GitHub profile! I'm passionate about learning and building in the world of tech.
 
