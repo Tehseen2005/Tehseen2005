@@ -1,14 +1,13 @@
-# 👋 Hi, I'm Tehseen!
+# Hi, I'm Tehseen!
 
 Welcome to my GitHub profile! I'm passionate about learning and building in the world of tech.
 
-## 🚀 About Me
-- 🌱 I’m currently learning **Web Development, C/C++, Python, SQL, React, and Node.js**
-- 💻 I'm focusing on sharpening my skills through hands-on learning and real-world problem solving
-- 🎯 Goals: To build solid projects, improve coding skills, and prepare for great opportunities in internships and placements
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-link) *(← Replace this with your actual LinkedIn link)*
+## About Me:
+- I’m currently learning **Web Development, C/C++, Python, SQL, React, and Node.js**
+- I'm focusing on sharpening my skills through hands-on learning and real-world problem solving
+- Goals: To build solid projects, improve coding skills, and prepare for great opportunities in internships and placements
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -19,5 +18,5 @@ Welcome to my GitHub profile! I'm passionate about learning and building in the 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
-## 📈 GitHub Stats
+## GitHub Stats
 ![crae6ted's GitHub stats](https://github-readme-stats.vercel.app/api?username=crae6ted&show_icons=true&theme=default)
