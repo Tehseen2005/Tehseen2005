@@ -18,5 +18,4 @@ Welcome to my GitHub profile! I'm passionate about learning and building in the 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
-## GitHub Stats
-![crae6ted's GitHub stats](https://github-readme-stats.vercel.app/api?username=crae6ted&show_icons=true&theme=default)
+
